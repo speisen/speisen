@@ -8,4 +8,3 @@ My name is Steve Eisenhour and I'm a Customer Success Manager at GitHub.  I'm lo
 
 - 📫 How to reach me: Slack - @speisen, Email - speisen@github.com
 
-- ⚡ Fun fact: I once sang in a school choir for the Queen of England
