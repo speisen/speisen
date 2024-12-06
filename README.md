@@ -6,5 +6,5 @@ My name is Steve Eisenhour and I'm a Customer Success Manager at GitHub.  I'm lo
 
 - 🏞️ Outside of work: I enjoy spending time with my family 👨‍👩‍👧‍👦 , watching Formula 1 🏎️ , and collecting wristwatches ⌚
 
-- 📫 How to reach me: Slack - @speisen, Email - speisen@github.com
+- 📫 How to reach me: speisen@github.com
 
